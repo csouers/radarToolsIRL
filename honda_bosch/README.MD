@@ -12,9 +12,9 @@ Begin the alignment process in HDS in an open space without the radar target in 
 Align the mount to the bottom of the radar unit, then raise the target 22mm upward. Next, place the target 4 meters forward of the centerline of the front wheels and also directly inline with the radar.
 
 Offsets:
-Civic Hatch: 22.95inches (0.58 meters) from center
-Insight: ?
-Center mounted (Accord, CRV): Center on vehicle center line
+- Civic Hatch: 22.95inches (0.58 meters) from center
+- Insight: ?
+- Center mounted (Accord, CRV): Center on vehicle center line
 
 Continue in software until the computer shows you the alignment offset. Adjust until satisfied and complete the alignment process.
 
