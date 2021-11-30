@@ -2,6 +2,7 @@ Software: HDS
 Interface: comma.ai white panda or other suitable VCI like a tactrix
 
 Reflector: any metal should do. The oem part looks to be welded aluminum with a plastic nut to secure the target to the clamp, with a threaded rod on the other end. It seems that they're unavailable, thus this repo. I don't have one.
+
 Stand: PVC. Probably 2" ID
 
 Prereqs: Draw the car's "box".
